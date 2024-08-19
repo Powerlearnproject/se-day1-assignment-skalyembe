@@ -10,8 +10,6 @@ Software engineering is a field of engineering that focuses on the design, devel
 
 ensure that software is reliable, performs well, and meets the intended requirements. 
 
-helps design systems that can handle increased loads and scale effectively.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 The Birth of Software Engineering (1968)
@@ -100,7 +98,9 @@ Acceptance Testing involves verifying that the software meets the end-user’s r
 Importance:
 Ensures that the software meets the requirements and expectations of the end-users or stakeholders.
 
+
 #Part 2: Introduction to AI and Prompt Engineering
+
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
